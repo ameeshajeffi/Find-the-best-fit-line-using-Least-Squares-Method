@@ -19,7 +19,7 @@ To implement univariate Linear Regression to fit a straight line using least squ
 ## Program:
 ```py
 
-## KAVINRAJA D
+## KAVINRAJA.D
 ## 212222230132
 
 import numpy as np
